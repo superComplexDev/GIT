@@ -1,2 +1,2 @@
 console.log('config.jsn');
-console.log('version1');
+console.log('version2');
