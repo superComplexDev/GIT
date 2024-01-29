@@ -1,2 +1,1 @@
-console.log('ssh');
-console.log('updated');
+console.log('using ssh');
